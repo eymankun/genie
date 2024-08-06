@@ -1,24 +1,28 @@
-# product-name
+# Product-name<!-- Change product-name -->
 
-Tell me what your product does
+Tell me what your product does briefly
 
-<!-- Change product-name -->
+<!-- Badges -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
+<!-- ![Country:Malaysia](https://img.shields.io/badge/Country_of_Origin-Malaysia-blue) -->
 
 ## Features
 
 - Can be bullet points
+- Describe what this product does specifically
 
-## Examples
+## Examples<!-- Delete section if not needed -->
 
 This add-on can be seen in action at the following sites:
 
 - Is there a page on the internet where everybody can see the features?
 
-## Documentation
+## Documentation<!-- Delete section if not needed -->
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
+Full documentation for end users can be found in the "docs" folder, and is also available online at [this link](http://docs.plone.org/foo/bar).
 
-## Translations
+## Translations<!-- Delete section if not needed -->
 
 This product has been translated into
 
@@ -33,7 +37,7 @@ Install product-name by adding it to your buildout::
     ...
 
     eggs =
-        kaeru.note
+        eyman.kun
 
 and then running ``bin/buildout``
 
@@ -47,12 +51,12 @@ and then running ``bin/buildout``
 
 If you are having issues, please let us know.
 
+## Status
+<!-- Choose one aplicable -->
+Experimental.
+
+Production.
+
 ## License
 
 The project is licensed under the GPLv2.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issue-tracker-link]: https://link.com
-[source-code-link]: https:source.code.link
-[documentation-link]: https://documentation.link
