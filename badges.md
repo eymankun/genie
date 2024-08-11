@@ -124,8 +124,6 @@ Github commits
 
 [![Website eymankun-page](https://img.shields.io/website-up-down-green-red/http/eymankun.gitlab.io/bio-page.svg)](https://eymankun.gitlab.io/bio-page/)
 
-
-
 ## Todo
 
 - [ ] add gitlab related badges

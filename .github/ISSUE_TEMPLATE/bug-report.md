@@ -1,7 +1,7 @@
 <!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 ---
 name: "Bug report \U0001F41E"
-about: Create a bug report
+about: Report a bug
 labels: bug
 
 ---
