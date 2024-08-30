@@ -1,62 +1,37 @@
-# Product-name<!-- Change product-name -->
+# Foobar
 
-Tell me what your product does briefly
-
-<!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
-<!-- ![Country:Malaysia](https://img.shields.io/badge/Country_of_Origin-Malaysia-blue) -->
-
-## Features
-
-- Can be bullet points
-- Describe what this product does specifically
-
-## Examples<!-- Delete section if not needed -->
-
-This add-on can be seen in action at the following sites:
-
-- Is there a page on the internet where everybody can see the features?
-
-## Documentation<!-- Delete section if not needed -->
-
-Full documentation for end users can be found in the "docs" folder, and is also available online at [this link](http://docs.plone.org/foo/bar).
-
-## Translations<!-- Delete section if not needed -->
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
+Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Install product-name by adding it to your buildout::
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-    [buildout]
+```bash
+pip install foobar
+```
 
-    ...
+## Usage
 
-    eggs =
-        eyman.kun
+```python
+import foobar
 
-and then running ``bin/buildout``
+# returns 'words'
+foobar.pluralize('word')
 
-## Contribute
+# returns 'geese'
+foobar.pluralize('goose')
 
-- [Issue Tracker](issue-tracker-link)
-- [Source Code](source-code-link)
-- [Documentation](documentation-link)
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
 
-## Support
+## Contributing
 
-If you are having issues, please let us know.
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-## Status
-<!-- Choose one aplicable -->
-Experimental.
-
-Production.
+Please make sure to update tests as appropriate.
 
 ## License
 
-The project is licensed under the GPLv2.
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -1,6 +1,6 @@
 <!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 ---
-name: "Bug report \U0001F41E"
+name: "Bug report :wrench:"
 about: Report a bug
 labels: bug
 

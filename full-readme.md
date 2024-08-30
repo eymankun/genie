@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD012 MD041 MD042 MD022 MD031 MD032 MD033 MD007 -->
+<!--markdownlint-disable MD004 MD012 MD041 MD042 MD022 MD031 MD032 MD033 MD007 -->
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
@@ -51,8 +51,6 @@
     <a href="https://github.com/eymankun/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
