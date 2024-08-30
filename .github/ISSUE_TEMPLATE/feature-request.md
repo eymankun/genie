@@ -1,6 +1,6 @@
 <!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 ---
-name: "Feature request \U0001F680"
+name: "Feature request :bulb:"
 about: Suggest an idea
 labels: enhancement
 
