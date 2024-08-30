@@ -5,8 +5,6 @@ about: pull request
 label: pull_request
 
 ---
-# 🔄 Pull Request: Ready to Merge Your Changes?
-<!-- Please provide a concise and descriptive title for your pull request above. -->
 
 ## 📦 Type of Changes
 Please indicate the type of changes made in this pull request by putting an 'x' in the relevant checkboxes:
