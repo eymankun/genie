@@ -1,10 +1,12 @@
-<!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 ---
 name: "Bug report :wrench:"
+title: ":rotating_light: Bug report - Title here"
 about: Report a bug
 labels: bug
+assignees: eymankun
 
 ---
+<!--markdownlint-disable MD041 MD022 MD032 MD007 -->
 
 ## Describe the bug
 A clear and concise description of what the bug is.
