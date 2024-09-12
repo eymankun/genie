@@ -1,10 +1,11 @@
-<!--markdownlint-disable MD022 MD041-->
 ---
 name: 🔄 Pull Request: Ready to Merge Your Changes?
 about: pull request
 label: pull_request
+assignees: eymankun
 
 ---
+<!--markdownlint-disable MD022 MD041-->
 
 ## 📦 Type of Changes
 Please indicate the type of changes made in this pull request by putting an 'x' in the relevant checkboxes:

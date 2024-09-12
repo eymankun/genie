@@ -2,6 +2,8 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
+Refer [here](https://github.com/eymankun/badges) to use badges.
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -34,4 +36,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+The project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
