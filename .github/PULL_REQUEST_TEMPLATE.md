@@ -1,6 +1,5 @@
 ---
 name: 🔄 Pull Request: Ready to Merge Your Changes?
-title: "🔄 Pull Request: Ready to Merge Your Changes?"
 about: pull request
 label: pull_request
 assignees: eymankun
